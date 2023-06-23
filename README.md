@@ -9,7 +9,7 @@ To begin using this project clone the repo using the instructions from below. On
 
 ` git init `
 
-` git clone https://github.com/sglasher/FlightDelayPrediction.git](https://github.com/sglasher/Team4ML.git`
+` git clone https://github.com/sglasher/Team4ML.git`
 
 ` pip install  `
 
