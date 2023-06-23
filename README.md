@@ -9,19 +9,30 @@ To begin using this project clone the repo using the instructions from below. On
 
 ` git init `
 
-` git clone https://github.com/sglasher/Team4ML.git`
+`git clone https://github.com/sglasher/Team4ML.git`
 
-` pip install  `
+### Required Python Packages ###
+- `pandas`
+- `numpy`
+- `matplotlib`
+- `seaborn`
+- `os`
+- `sklearn`
 
 ## Project Intro/Objective ##
-
+The goal of this project was to create a model that will be able to accurately predict the SSPL, or Self-Noise, level of an airfoil given a specfic set of feature values. Using NASA's AirFoil Self-Noise Dataset, we were able to achieve an R2 score of 0.92 with a Random Forest model.
 
 ### Partners/Contributers ###
 - Se'Lina Lasher
 - Trevor McGirr
 
 ### Methods Used ###
-
-
+- Inferential Statistics
+- Pipelines
+- Random Forest Regressor
+- Gradient Boosted Regressor
+- Decision Tree
+- Support Vector Regressor
+- Linear Regression
 ### Technologies Used ###
 Python
